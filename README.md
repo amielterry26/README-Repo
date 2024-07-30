@@ -15,5 +15,4 @@ To initially serve as my personal learning center, but I hope to eventually turn
 ### Some of the things I would Like to accomplish:
 1. Provide a full syntax cheatsheet for each of the languages and frameworks I am learning.
 2. Develop an easy, digestible way for people who are conceptual thinkers & learners to tackle the difficult and convoluted concept of coding and programming.
-# READMEs
-# README-Repo
+
