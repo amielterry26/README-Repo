@@ -1,0 +1,1 @@
+This folder contains information about automation and scripting languages.

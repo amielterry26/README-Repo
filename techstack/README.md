@@ -1,0 +1,1 @@
+## This folder contains information about the various different use cases and ecosystems for development.

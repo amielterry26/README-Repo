@@ -1,0 +1,7 @@
+# Do not ignore the .gitignore file itself
+!.gitignore
+
+# Exclude specific unnecessary files and directories
+*.DS_Store
+*.xml
+.idea/

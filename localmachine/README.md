@@ -1,0 +1,1 @@
+## In this folder, you will find information related to local machine setup and configuration.

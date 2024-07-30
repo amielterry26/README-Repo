@@ -1,0 +1,1 @@
+## This folder contains information about various software tools used in my TechStack.

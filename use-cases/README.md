@@ -1,0 +1,1 @@
+## This folder contains information about various use cases for my tech stack.
